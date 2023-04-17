@@ -1,0 +1,2 @@
+gcc -o dij01 dij01.c
+./dij01
